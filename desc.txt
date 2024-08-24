@@ -1,0 +1,4 @@
+Index.html: The main page of the application, containing the user profiling form, university database, and recommendation engine.
+profile.html: A page to display the student's profile information.
+university.html: A page to display information about a specific university.
+compare.html: A page to compare universities based on various criteria.
